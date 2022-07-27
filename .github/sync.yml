@@ -1,0 +1,7 @@
+sviatik/sync-repo1:
+  - source: somename1/en.txt
+    dest: somename2/en.txt
+
+# sviatik/sync-repo2:
+#   - source: workflows/stale.yml
+#     dest: .github/workflows/stale.yml
