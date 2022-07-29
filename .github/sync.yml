@@ -1,5 +1,2 @@
-sviatik/sync-repo1:
-  - somedir1/en.txt
-
 sviatik/sync-repo2:
-  - somedir2/en.txt
+  - somedir1/en.txt
