@@ -2,7 +2,7 @@ name: Sync Files
 on:
   push:
     branches:
-      - main
+      - component/1.8-somename
   workflow_dispatch:
 jobs:
   sync:
