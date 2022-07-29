@@ -1,3 +1,3 @@
-sviatik/sync-repo2:
+sviatik/sync-repo2@branchname:
   - source: somedir1/en.txt
     dest: somedir2/src/en.txt
