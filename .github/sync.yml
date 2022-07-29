@@ -2,3 +2,4 @@ sviatik/sync-repo1:
   - somename1/en.txt
 
 sviatik/sync-repo2:
+  - somename2/en.txt
