@@ -8,6 +8,9 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
+      - shell: bash
+        run: |
+          env
       - name: Checkout Repository
         uses: actions/checkout@master
       - name: Run GitHub File Sync
